@@ -1,2 +1,4 @@
 # java-algorithms
-data structure and algorithms in java
+Data structure and algorithms in java
+
+Code examples from a middle-schooler.
